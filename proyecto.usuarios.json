@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64dfe8ab07aa2cd5d4920aa4"
+  },
+  "n_usuario": 1,
+  "nombre": "Aresly",
+  "edad": 23,
+  "email": "aresly67@gmail.com",
+  "password": "$2b$10$Ru/oZYDVEcB4C7VkMxyeTejsifju0.NFYB5DWTDcsj5yJ7lKkIJzi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dfe92c07aa2cd5d4920aa9"
+  },
+  "n_usuario": 2,
+  "nombre": "Sofia",
+  "edad": 23,
+  "email": "sofia@gmail.com",
+  "password": "$2b$10$Ru/oZYDVEcB4C7VkMxyeTejsifju0.NFYB5DWTDcsj5yJ7lKkIJzi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dfe95507aa2cd5d4920aae"
+  },
+  "n_usuario": 3,
+  "nombre": "Iliana",
+  "edad": 23,
+  "email": "iliana@gmail.com",
+  "password": "$2b$10$Ru/oZYDVEcB4C7VkMxyeTejsifju0.NFYB5DWTDcsj5yJ7lKkIJzi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dfe98507aa2cd5d4920ab3"
+  },
+  "n_usuario": 4,
+  "nombre": "Alexander GA71",
+  "edad": 25,
+  "email": "ale@gmail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dfebc207aa2cd5d4920acc"
+  },
+  "n_usuario": 5,
+  "nombre": "Andrea",
+  "edad": 25,
+  "email": "andrea@gmail.com",
+  "password": "$2b$10$Ru/oZYDVEcB4C7VkMxyeTejsifju0.NFYB5DWTDcsj5yJ7lKkIJzi",
+  "__v": 0
+}]
